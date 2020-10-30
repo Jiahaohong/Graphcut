@@ -1,3 +1,5 @@
+这不是本人做的工程，本人正在学习数字图像处理，经同学获得此工程代码，由于联系不上原作，所以冒昧上传到本人github上，如有人知晓原作者或工程原码地址，敬请告知我，谢谢！
+
 # GraphCut
 
 本项目参考了https://github.com/NathanZabriskie/GraphCut  
